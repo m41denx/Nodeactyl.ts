@@ -1,4 +1,6 @@
-<div align="center">
+AI-Generated typescript rewrite because I'm lazy and need to finish my project like today
+
+---
 
 [![GitHub Issues](https://img.shields.io/github/issues/Burchard36/Nodeactyl.svg?style=for-the-badge)](https://github.com/Burchard36/Nodeactyl/issues)
 [![Current Version](https://img.shields.io/github/package-json/v/Nodeactyl/Nodeactyl?style=for-the-badge)](https://github.com/Burchard36/Nodeactyl)
@@ -62,4 +64,3 @@ This project is licensed under the terms of the **MIT License**.
 
 > You can check out the full license [here](https://github.com/Burchard36/Nodeactyl/blob/typescript/LICENSE)
 
-</div>

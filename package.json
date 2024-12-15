@@ -2,11 +2,17 @@
   "name": "nodeactyl",
   "version": "3.2.2",
   "private": false,
-  "main": "src/Nodeactyl.js",
+  "main": "dist/Nodeactyl.js",
+  "types": "dist/Nodeactyl.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
   "dependencies": {
     "axios": "^0.22.0"
   },
   "devDependencies": {
-    "jsdocs": ""
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3"
   }
 }
